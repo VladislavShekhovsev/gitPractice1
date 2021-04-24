@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("adding github now");
         System.out.println(" yey its on github");
         System.out.println("commit and push");
+        System.out.println("new msg");
     }
 }
